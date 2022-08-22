@@ -1,0 +1,11 @@
+.room {
+ height: 100%;
+}
+.on{
+    background-color: white;
+    color:black;
+}
+.off{
+    background-color:black;
+    color:white;
+}
